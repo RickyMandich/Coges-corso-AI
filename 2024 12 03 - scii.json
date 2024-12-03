@@ -1,0 +1,120 @@
+{
+    "product_name": "Dobermann GSR DC Fdt",
+    "code": "0A3522KB001",
+    "colors": [
+        "Nero",
+        "Rosso"
+    ],
+    "description": "La curva è un'opera d'arte ed il Dobermann GSR DC di Nordica è pronto a scolpire un capolavoro. La sua nuovissima costruzione Double Core trasmette maggior potenza e controllo allo sci per una sciata particolarmente fluida e stabile. Presenta anche una piastra in zinco e alluminio per una maggiore rigidità torsionale.",
+    "features": {
+        "Costruzione": "Energy 2 TI Double Core",
+        "Nucleo/Materiali": [
+            "Performance Wood",
+            "Metal",
+            "Double Core",
+            "Sidewall",
+            "Carbon"
+        ],
+        "Rocker": "Full Camber",
+        "Angolo sci di fabbrica": {
+            "base": "0.9°",
+            "laterale": "87.5°"
+        },
+        "Piastra": "FDT Race Plate Pro N",
+        "Attacco": "XCELL 14 FDT",
+        "Din": "4-14 TCX"
+    },
+    "dimensions": [
+        {
+            "size_cm": 170,
+            "sciancratura_mm": "113.5-69-96.5",
+            "raggio_m": 17.5,
+            "peso_kg": 3.28
+        },
+        {
+            "size_cm": 175,
+            "sciancratura_mm": "113.5-69-96.5",
+            "raggio_m": 18.5,
+            "peso_kg": 3.4
+        },
+        {
+            "size_cm": 180,
+            "sciancratura_mm": "114-69-97",
+            "raggio_m": 19.5,
+            "peso_kg": 3.52
+        },
+        {
+            "size_cm": 185,
+            "sciancratura_mm": "114-69-97",
+            "raggio_m": 20.5,
+            "peso_kg": 3.68
+        }
+    ],
+    "target_user": {
+        "neve_battuta": 5,
+        "principiante": 2,
+        "curve_strette": 3
+    },
+    "technologies": [
+        {
+            "name": "Energy 2 TI DC",
+            "description": "Strato di elastomero Pulse tra due anime di legno, rinforzato con titanal per precisione e risposta senza pari."
+        },
+        {
+            "name": "Dynamic Race Shovel",
+            "description": "Geometria studiata per rendere la spatola più manovrabile con un leggero rocker in punta."
+        },
+        {
+            "name": "FDT Race Plate Pro",
+            "description": "Fast Demo Track per regolazioni senza attrezzi e trasmissione ottimale di energia."
+        }
+    ],
+    "comparisons": [
+        {
+            "model": "Dobermann Multigara DC Race",
+            "weight_kg": 3.66,
+            "sciancratura_mm": "122-70-102",
+            "length_radius": [
+                {
+                    "size_cm": 170,
+                    "raggio_m": 15
+                },
+                {
+                    "size_cm": 175,
+                    "raggio_m": 16
+                },
+                {
+                    "size_cm": 180,
+                    "raggio_m": 16.6
+                }
+            ]
+        },
+        {
+            "model": "Dobermann Multigara DC Fdt",
+            "weight_kg": 3.66,
+            "sciancratura_mm": "122-70-102",
+            "length_radius": [
+                {
+                    "size_cm": 160,
+                    "raggio_m": 14
+                },
+                {
+                    "size_cm": 165,
+                    "raggio_m": 14.8
+                },
+                {
+                    "size_cm": 170,
+                    "raggio_m": 15
+                },
+                {
+                    "size_cm": 175,
+                    "raggio_m": 16
+                },
+                {
+                    "size_cm": 180,
+                    "raggio_m": 16.6
+                }
+            ]
+        }
+    ]
+}

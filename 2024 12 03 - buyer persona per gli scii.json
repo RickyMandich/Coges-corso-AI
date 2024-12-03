@@ -1,0 +1,62 @@
+[
+    {
+        "persona_name": "Il Professionista del Gigante",
+        "age_range": "30-50",
+        "skill_level": "Esperto o agonista",
+        "goals": "Perfezionare la tecnica nelle curve lunghe e veloci, con stabilità e controllo assoluti.",
+        "product_features": [
+            "Costruzione 'Double Core' per maggiore potenza e controllo",
+            "Rigidità torsionale migliorata grazie alla piastra in zinco e alluminio",
+            "Angoli di fabbrica precisi per performance elevate su neve battuta"
+        ],
+        "purchase_motivations": "Desiderano un prodotto top di gamma per esprimere il massimo delle loro capacità tecniche."
+    },
+    {
+        "persona_name": "L'Appassionato della Precisione",
+        "age_range": "25-40",
+        "skill_level": "Intermedio/Avanzato",
+        "goals": "Affinare il controllo e la precisione nelle curve.",
+        "product_features": [
+            "Tecnologia 'Dynamic Race Shovel' per ingressi in curva facilitati",
+            "Leggero rocker in punta che riduce lo sforzo fisico",
+            "Versatilità su piste battute e curve da gigante"
+        ],
+        "purchase_motivations": "Vogliono uno sci performante e affidabile che permetta di migliorare il loro livello tecnico."
+    },
+    {
+        "persona_name": "Il Competitore Non Professionista",
+        "age_range": "18-30",
+        "skill_level": "Avanzato",
+        "goals": "Migliorare le performance in contesti semi-agonistici o gare amatoriali.",
+        "product_features": [
+            "Performance elevate grazie alla costruzione Energy 2 TI Double Core",
+            "Stabilità e velocità su curve ampie e strette",
+            "Regolazioni rapide grazie al sistema FDT Race Plate Pro"
+        ],
+        "purchase_motivations": "Vogliono un prodotto competitivo per misurarsi nelle competizioni amatoriali."
+    },
+    {
+        "persona_name": "Il Giovane Ambizioso",
+        "age_range": "18-25",
+        "skill_level": "Intermedio con voglia di crescere",
+        "goals": "Migliorare rapidamente le proprie capacità tecniche per raggiungere un livello avanzato.",
+        "product_features": [
+            "Tecnologia 'Dynamic Race Shovel' per ingressi in curva facilitati",
+            "Costruzione stabile che aiuta a sviluppare confidenza con alte velocità",
+            "Regolazioni rapide per adattarsi alle evoluzioni dell’utilizzatore"
+        ],
+        "purchase_motivations": "Vogliono investire in uno sci che li accompagni nella crescita tecnica."
+    },
+    {
+        "persona_name": "L'Esteta della Velocità",
+        "age_range": "35-55",
+        "skill_level": "Avanzato",
+        "goals": "Divertirsi a tracciare curve eleganti e veloci senza seguire un tracciato formale.",
+        "product_features": [
+            "Design premium con finitura nero-rosso",
+            "Precisione e risposta garantite dagli strati di legno e titanal",
+            "Stabilità e fluidità durante la sciata"
+        ],
+        "purchase_motivations": "Apprezzano la combinazione di estetica e performance, cercando un prodotto che rifletta il loro stile personale."
+    }
+]
