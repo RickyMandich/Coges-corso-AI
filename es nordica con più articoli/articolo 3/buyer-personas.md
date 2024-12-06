@@ -1,49 +1,43 @@
-# Buyer Persona 1: Carlo Mancini
+# Marco Trentini: Professionista Tecnico
 
 ## Profilo Demografico
-- Età: 38 anni
-- Professione: Ingegnere meccanico
-- Specializzazione: Materiali compositi
+- Età: 40 anni
+- Professione: Ingegnere materiali sportivi
 - Reddito: €95.000/anno
 
-## Profilo Tecnico
-- Livello sciistico: Esperto
-- Zone di sci: Dolomiti, Svizzera, Francia
-- Budget attrezzatura: €3.000-5.000/anno
-- Frequenza sostituzione sci: Ogni 2-3 anni
+## Profilo Sciistico
+- Livello: Esperto tecnico
+- Interesse: Analisi performance sci
+- Budget attrezzatura: €3.500-5.000/anno
 
-## Caratteristiche Psicografiche
-- Motivazioni: Ricerca performance tecniche superiori
-- Driver di acquisto: Innovazione ingegneristica
-- Comportamento: Analisi dettagliata specifiche tecniche
-- Canali informativi: Riviste specializzate, forum tecnici
+## Motivazioni Specifiche Dobermann SLR
+- Interesse tecnico: Costruzione Energy 2 TI Double Core
+- Focus: Combinazione legno-titanal-elastomero
+- Aspettative: Precisione ingegneristica delle performance
 
-## Obiettivi
-- Miglioramento continuo delle prestazioni
-- Comprensione tecnica dei materiali
-- Analisi prestazionale degli sci
+## Canali Informativi
+- Riviste tecniche specializzate
+- Forum ingegneristici
+- Test comparativi attrezzature
 
-# Buyer Persona 2: Sophia Rosenberg
+# Elena Bergamaschi: Professionista Alpine
 
 ## Profilo Demografico
 - Età: 35 anni
-- Professione: Istruttrice di sci internazionale
-- Certificazioni: IVSI, Guida UIAGM
+- Professione: Istruttrice sci UIAGM
 - Reddito: €78.000/anno
 
-## Profilo Tecnico
-- Specializzazione: Sci fuoripista estremo
-- Zone di sci: Alpi, Ande, backcountry globali
+## Profilo Sciistico
+- Specializzazione: Sci agonistico/fuoripista
+- Livello: Professionale
 - Budget attrezzatura: €4.000-6.000/anno
-- Frequenza sostituzione sci: Annualmente
 
-## Caratteristiche Psicografiche
-- Motivazioni: Prestazioni in condizioni estreme
-- Driver di acquisto: Affidabilità e leggerezza
-- Comportamento: Test diretti sul campo
-- Canali informativi: Network professionali, test di settore
+## Motivazioni Specifiche Dobermann SLR
+- Interesse prestazionale: Curve corte e reattive
+- Focus: Stabilità ad alte velocità
+- Aspettative: Performance competizione
 
-## Obiettivi
-- Formazione professionale
-- Gestione rischi in ambienti alpini
-- Superamento continuo dei propri limiti
+## Canali Informativi
+- Network professionali istruttori
+- Test sul campo
+- Collaborazioni sponsor tecnici
