@@ -1,0 +1,52 @@
+{
+    "buyer_personas": [
+        {
+            "id": "competitive_racer",
+            "name": "Marco Rossi",
+            "nickname": "The Competitive Racer",
+            "demographic": {
+                "age": 32,
+                "profession": "Avvocato aziendale",
+                "annual_income": 80000,
+                "residence": "Milano, zona montana vicino alle Alpi"
+            },
+            "psychographic": {
+                "profile": "Sciatore esperto con passione per gare amatoriali e sci competitivo",
+                "motivations": [
+                    "Ricerca di sci con prestazioni da gara",
+                    "Necessità di precisione e reattività nelle curve corte",
+                    "Voglia di attrezzature che rispecchino il livello tecnico"
+                ],
+                "expectations": [
+                    "Stabilità alle alte velocità",
+                    "Risposta immediata e precisa",
+                    "Design professionale"
+                ]
+            }
+        },
+        {
+            "id": "mountain_enthusiast", 
+            "name": "Elena Bianchi",
+            "nickname": "Mountain Enthusiast",
+            "demographic": {
+                "age": 45,
+                "profession": "Imprenditrice nel settore wellness",
+                "annual_income": 120000,
+                "residence": "Torino, con seconda casa in Val d'Aosta"
+            },
+            "psychographic": {
+                "profile": "Sciatrice esperta che vive la montagna come lusso e passione",
+                "motivations": [
+                    "Desiderio di attrezzatura top di gamma",
+                    "Ricerca di performance con eleganza e controllo",
+                    "Interesse per tecnologie all'avanguardia"
+                ],
+                "expectations": [
+                    "Sci con massima sicurezza",
+                    "Tecnologia innovativa",
+                    "Estetica curata e distintiva"
+                ]
+            }
+        }
+    ]
+}
